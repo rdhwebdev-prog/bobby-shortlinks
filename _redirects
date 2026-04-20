@@ -1,3 +1,4 @@
 # Bobby Short Links
 # Format: /slug https://destination.com 301
 /test https://bobby.pp.ua 302
+/substackstatus https://substack.statuspage.io/ 301
