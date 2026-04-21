@@ -1,8 +1,4 @@
 # Bobby Short Links
 # Format: /slug https://destination.com 301
-/test https://bobby.pp.ua 302
-/substackstatus https://substack.statuspage.io/ 301
-/damngina https://www.digitalocean.com/resources/articles/claude-code-alternatives 301
-/sss https://substack.statuspage.io/ 301
-/s13 https://sugaronethree.com/ 301
-/sdf https://substack.statuspage.io/ 301
+/ https://bobby.pp.ua/0 302
+/0 https://links.thesugarkid.workers.dev/ 302
