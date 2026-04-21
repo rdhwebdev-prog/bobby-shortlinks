@@ -1,5 +1,9 @@
--n -n # Bobby Short Links
 # Format: /slug https://destination.com 301
 / https://bobby.pp.ua/0 302
 /0 https://links.thesugarkid.workers.dev/ 302
+# meta: {"title":"","created":"2026-04-21"}
+/home https://thesugarkid.icu 301
+# meta: {"title":"","created":"2026-04-21"}
+/-n -n 301
+# meta: {"title":"","created":"2026-04-21"}
 /sss https://substack.statuspage.io/ 301
