@@ -1,6 +1,5 @@
-# Bobby Short Links
+-n # Bobby Short Links
 # Format: /slug https://destination.com 301
 / https://bobby.pp.ua/0 302
 /0 https://links.thesugarkid.workers.dev/ 302
-/https://sugaronethree.com/ s13 301
-/test123 https://example.com 301
+
