@@ -2,3 +2,4 @@
 # Format: /slug https://destination.com 301
 / https://bobby.pp.ua/0 302
 /0 https://links.thesugarkid.workers.dev/ 302
+/sss https://substack.statuspage.io/ 301
